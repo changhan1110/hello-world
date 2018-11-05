@@ -1,4 +1,4 @@
 # hello-world
 It's my first repository.
 
-I was late today. What a shame.
+Remember my b-day is 10 November.
